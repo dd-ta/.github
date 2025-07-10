@@ -87,7 +87,7 @@ Think you can handle the heat? Want to lose money AND write code at the same tim
 
 ```ascii
     ╔══════════════════════════════════════╗
-    ║  "In code we trust, in trades we bust" ║
+    ║"In code we trust, in trades we bust" ║
     ║                                      ║
     ║           - DD-TA Motto              ║
     ╚══════════════════════════════════════╝
