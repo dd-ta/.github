@@ -81,9 +81,7 @@ Think you can handle the heat? Want to lose money AND write code at the same tim
 
 ### Contact Us 📞
 
-- **Discord**: Probably arguing about TypeScript vs JavaScript
-- **Twitter**: @dd-ta (tweeting through the pain)
-- **Email**: contact@dd-ta.dev (if we remember to check it)
+- **Discord**: Probably arguing about whatever the latest retail meme stock is
 
 ---
 
